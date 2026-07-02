@@ -315,7 +315,7 @@ Achieving perfect adenocarcinoma detection alongside more than **92% class accur
 
 ## Model Availability
 
-**Dataset:** `<<[INSERT DATASET LINK](https://drive.google.com/drive/folders/1vcw8JRQr8-62IVvix4rK4rDXrFnlap8e)>>`
+**Dataset:** `<<[(https://drive.google.com/drive/folders/1vcw8JRQr8-62IVvix4rK4rDXrFnlap8e)])>>`
 
 **Hugging Face Model Repository:** `<<INSERT MODEL LINK>>`
 
