@@ -317,7 +317,7 @@ Achieving perfect adenocarcinoma detection alongside more than **92% class accur
 
 **Dataset:** [Google Drive Dataset](https://drive.google.com/drive/folders/1vcw8JRQr8-62IVvix4rK4rDXrFnlap8e)
 
-**Hugging Face Model Repository:** `<<INSERT MODEL LINK>>`
+**Hugging Face Model Repository:** [TBA]
 
 ---
 
