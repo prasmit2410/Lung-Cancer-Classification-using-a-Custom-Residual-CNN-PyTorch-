@@ -313,12 +313,15 @@ Achieving perfect adenocarcinoma detection alongside more than **92% class accur
 
 ---
 
-## Model Availability
+## Dataset and Other Files
 
 **Dataset:** [Google Drive Dataset](https://drive.google.com/drive/folders/1vcw8JRQr8-62IVvix4rK4rDXrFnlap8e)
 
 **Hugging Face Model Repository:** [TBA]
 
+**Code File:** [Link Here](Lung_Cancer_Detection_using_Convolutional_Neural_Network_(CNN).ipynb)
+
+**Colab File:** [Colab File](https://colab.research.google.com/drive/1TcM3zUUYr_UXEw80WUFiGaFUczOxFEO5?usp=sharing)
 ---
 
 ## Future Work
