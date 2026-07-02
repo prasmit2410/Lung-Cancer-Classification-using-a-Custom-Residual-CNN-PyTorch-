@@ -176,7 +176,7 @@ Validation Loss     : 0.1268
 ## Training Loss
 
 <p align="center">
-  <img src="assets/Epoch vs Train Loss.png" width="750">
+  <img src="Epoch vs Train Loss.png" width="750">
 </p>
 
 <p align="center">
@@ -188,7 +188,7 @@ Validation Loss     : 0.1268
 ## Testing Loss
 
 <p align="center">
-  <img src="assets/Epoch vs Test Loss.png" width="750">
+  <img src="Epoch vs Test Loss.png" width="750">
 </p>
 
 <p align="center">
