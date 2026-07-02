@@ -171,6 +171,42 @@ Epoch               : 12
 Validation Accuracy : 96.46%
 Validation Loss     : 0.1268
 ```
+# Training Curves
+
+## Training Loss
+
+<p align="center">
+  <img src="assets/Epoch vs Train Loss.png" width="750">
+</p>
+
+<p align="center">
+<i>Figure 1: Training loss across epochs.</i>
+</p>
+
+---
+
+## Testing Loss
+
+<p align="center">
+  <img src="assets/Epoch vs Test Loss.png" width="750">
+</p>
+
+<p align="center">
+<i>Figure 2: Testing loss across epochs.</i>
+</p>
+
+---
+
+## Testing Accuracy
+
+<p align="center">
+  <img src="assets/Epoch vs Test Accuracy.png" width="750">
+</p>
+
+<p align="center">
+<i>Figure 3: Test accuracy across epochs.</i>
+</p>
+
 
 The combination of:
 
@@ -271,7 +307,7 @@ Achieving perfect adenocarcinoma detection alongside more than **92% class accur
 
 ## Model Availability
 
-**Dataset:** `<<INSERT DATASET LINK>>`
+**Dataset:** `<<[INSERT DATASET LINK](https://drive.google.com/drive/folders/1vcw8JRQr8-62IVvix4rK4rDXrFnlap8e)>>`
 
 **Hugging Face Model Repository:** `<<INSERT MODEL LINK>>`
 
