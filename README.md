@@ -240,7 +240,7 @@ contributed significantly to efficient optimization and strong generalization.
 
 ## Confusion Matrix Analysis
 
-> **Confusion Matrix:** `<<INSERT CONFUSION MATRIX IMAGE HERE>>`
+> **Confusion Matrix:** `<<Confusion Matrix.png>>`
 
 | True Class | Correct Predictions | Total Samples | Class Accuracy |
 |------------|--------------------|---------------|----------------|
