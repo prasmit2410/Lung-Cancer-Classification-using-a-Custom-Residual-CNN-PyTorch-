@@ -200,7 +200,7 @@ Validation Loss     : 0.1268
 ## Testing Accuracy
 
 <p align="center">
-  <img src="assets/Epoch vs Test Accuracy.png" width="750">
+  <img src="Epoch vs Test Accuracy.png" width="750">
 </p>
 
 <p align="center">
