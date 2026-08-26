@@ -176,7 +176,7 @@ Validation Loss     : 0.1268
 ## Training Loss
 
 <p align="center">
-  <img src="Epoch vs Train Loss.png" width="750">
+  <img src="https://i.postimg.cc/FRQtCV5T/Epoch-vs-Train-Loss.png" width="750">
 </p>
 
 <p align="center">
@@ -188,7 +188,7 @@ Validation Loss     : 0.1268
 ## Testing Loss
 
 <p align="center">
-  <img src="Epoch vs Test Loss.png" width="750">
+  <img src="https://i.postimg.cc/9MP66wCZ/Epoch-vs-Test-Loss.png" width="750">
 </p>
 
 <p align="center">
@@ -200,7 +200,7 @@ Validation Loss     : 0.1268
 ## Testing Accuracy
 
 <p align="center">
-  <img src="Epoch vs Test Accuracy.png" width="750">
+  <img src="https://i.postimg.cc/pTQww5Rf/Epoch-vs-Test-Accuracy.png" width="750">
 </p>
 
 <p align="center">
@@ -243,7 +243,7 @@ contributed significantly to efficient optimization and strong generalization.
 ## Confusion Matrix
 
 <p align="center">
-  <img src="Confusion Matrix.png" width="750">
+  <img src="https://i.postimg.cc/CL0CNvPL/Confusion-Matrix.png" width="750">
 </p>
 
 <p align="center">
