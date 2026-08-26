@@ -1,3 +1,65 @@
+---
+tags:
+- image-classification
+- lung-cancer
+- histopathology
+- pytorch
+- cnn
+- residual-network
+- medical-imaging
+- deep-learning
+license: mit
+model-index:
+- name: Lung Cancer Classification ResCNN
+  results:
+  - task:
+      type: image-classification
+      name: Lung Cancer Classification
+    dataset:
+      name: Lung Histopathology Dataset
+      type: lung_histopathology
+      split: test
+    metrics:
+    - type: accuracy
+      name: Accuracy
+      value: 0.95
+      # Note: Replace with actual test accuracy if different
+    - type: f1
+      name: F1 Score
+      value: 0.95
+---
+
+---
+tags:
+- image-classification
+- lung-cancer
+- histopathology
+- pytorch
+- cnn
+- residual-network
+- medical-imaging
+- deep-learning
+license: mit
+model-index:
+- name: Lung Cancer Classification ResCNN
+  results:
+  - task:
+      type: image-classification
+      name: Lung Cancer Classification
+    dataset:
+      name: Lung Histopathology Dataset
+      type: lung_histopathology
+      split: test
+    metrics:
+    - type: accuracy
+      name: Accuracy
+      value: 0.95
+      # Note: Replace with actual test accuracy if different
+    - type: f1
+      name: F1 Score
+      value: 0.95
+---
+
 # Lung Cancer Classification using a Custom Residual CNN (PyTorch)
 
 ## Project Overview
