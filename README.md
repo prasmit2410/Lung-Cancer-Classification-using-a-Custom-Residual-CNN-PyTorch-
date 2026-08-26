@@ -26,7 +26,7 @@ The dataset consists of three classes:
 | `lung_aca` | Lung Adenocarcinoma |
 | `lung_scc` | Lung Squamous Cell Carcinoma |
 
-**Dataset:** `<<INSERT DATASET LINK>>`
+
 
 ---
 
